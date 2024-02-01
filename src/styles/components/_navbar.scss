@@ -1,0 +1,15 @@
+"// components/_navbar.scss" 
+".navbar {" 
+"  background-color: $primary-color;" 
+"  color: #fff;" 
+"  padding: 10px;" 
+"}" 
+ECHO is on.
+".nav-link {" 
+"  text-decoration: none;" 
+"  color: #fff;" 
+ECHO is on.
+"  &:hover {" 
+"    text-decoration: underline;" 
+"  }" 
+"}" 

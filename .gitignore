@@ -1,0 +1,24 @@
+# Node.js 
+node_modules/ 
+ECHO is on.
+# Compiled files 
+dist/ 
+*.css 
+*.min.css 
+*.js 
+*.min.js 
+ECHO is on.
+# Dependency directories 
+/.pnp 
+.pnp.js 
+ECHO is on.
+# Logs 
+logs 
+*.log 
+npm-debug.log* 
+ECHO is on.
+# Build 
+build/ 
+ECHO is on.
+# VSCode directories 
+.vscode/ 

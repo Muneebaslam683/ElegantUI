@@ -1,0 +1,12 @@
+"// components/_button.scss" 
+".button {" 
+"  padding: 10px 15px;" 
+"  background-color: $secondary-color;" 
+"  color: #fff;" 
+"  border: none;" 
+"  cursor: pointer;" 
+ECHO is on.
+"  &:hover {" 
+"    background-color: darken($secondary-color, 10%);" 
+"  }" 
+"}" 
